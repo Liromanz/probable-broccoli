@@ -1,0 +1,15 @@
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\bin\Debug\net6.0\consolka.exe
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\bin\Debug\net6.0\consolka.deps.json
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\bin\Debug\net6.0\consolka.runtimeconfig.json
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\bin\Debug\net6.0\consolka.dll
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\bin\Debug\net6.0\consolka.pdb
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.csproj.AssemblyReference.cache
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.AssemblyInfoInputs.cache
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.AssemblyInfo.cs
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.csproj.CoreCompileInputs.cache
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.dll
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\refint\consolka.dll
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.pdb
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\consolka.genruntimeconfig.cache
+C:\Users\kiss_\source\repos\это мое\consolka\consolka\obj\Debug\net6.0\ref\consolka.dll
